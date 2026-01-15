@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working with Punjab Safe City Authority (PSCA) as FullStack Developer.<br>I build complex dashboards, Ecommerce websites, business and travel and all types of static and dynamic websites using moden tools.<br>I'm obeseed with understanding how technology actually works- not just how it's marked.
+I am currently working with Punjab Safe City Authority (PSCA) as FullStack Developer. <br>Passionate Full-Stack Developer with expertise in React.js, Redux, JavaScript, TypeScript, HTML5, CSS3, and modern frontend frameworks. Skilled in building responsive, user-friendly web applications and eager to tackle complex challenges in innovative software development projects.<br>I build complex dashboards, Ecommerce websites, business and travel and all types of static and dynamic websites using moden tools.<br>I'm obeseed with understanding how technology actually works- not just how it's marked.
 
 
 ## 🌐 Socials:
